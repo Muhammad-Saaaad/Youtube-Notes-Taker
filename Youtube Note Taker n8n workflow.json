@@ -263,8 +263,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "https://api.apify.com/v2/acts/pintostudio~youtube-transcript-scraper/run-sync-get-dataset-items?token=apify_api_3CYJ20PJ3Qik1F76XPL45XcsQbdILc3tVHyA",
-        "sendBody": true,
+        "url": "",
         "bodyParameters": {
           "parameters": [
             {
